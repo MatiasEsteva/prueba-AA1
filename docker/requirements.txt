@@ -1,0 +1,5 @@
+tensorflow-cpu
+pandas
+numpy
+scikit-learn
+joblib
